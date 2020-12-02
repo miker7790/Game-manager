@@ -1,4 +1,4 @@
-# virtual Arcade :D
+# Virtual Arcade :D
 Ability to play multiple games
 ## Arcade Objective
 Looking for a game to quench your word guessing thirst? Well look no farther, this is the program just for you. 
